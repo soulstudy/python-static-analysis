@@ -1,0 +1,13 @@
+************* Module calculate_resistance
+calculate_resistance.py:18:0: C0304: Final newline missing (missing-final-newline)
+calculate_resistance.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+calculate_resistance.py:1:8: C0103: Argument name "R1" doesn't conform to snake_case naming style (invalid-name)
+calculate_resistance.py:1:12: C0103: Argument name "R2" doesn't conform to snake_case naming style (invalid-name)
+calculate_resistance.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+calculate_resistance.py:2:4: W0622: Redefining built-in 'sum' (redefined-builtin)
+calculate_resistance.py:3:4: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 5.33/10 (previous run: 5.33/10, +0.00)
+
+[0m
